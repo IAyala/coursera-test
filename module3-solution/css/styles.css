@@ -1,0 +1,9 @@
+.navbar-title {
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 30px;
+    text-align: left;
+}
+
+.navbar-title h1 {
+    font-weight: bold;
+}
